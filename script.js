@@ -9,7 +9,7 @@
     let id = document.querySelector('input').value
 
     if(id == ""){
-        alert("Digite um codigo fipe")
+        alert("Digite um flamengo fipe")
         return
     }
     
